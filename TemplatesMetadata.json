@@ -1,0 +1,9 @@
+{
+  "templates" : [ {
+    "id" : "openEHR-EHR-COMPOSITION.hspctest.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.hspctest.v1.adlt",
+    "sha" : "df6837a0b48be7f2b03c50240aac11f5c927bb45"
+  } ]
+}
